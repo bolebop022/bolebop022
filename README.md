@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Bongane
-- 👀 I’m interested in all things problem solving
-- 🌱 I’m currently learning Jenkins to Java
 
 <!---
 bolebop022/bolebop022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
