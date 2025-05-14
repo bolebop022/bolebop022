@@ -41,27 +41,11 @@
 
 ## 🌟 Featured Projects
 
-### [Project 1](https://github.com/bolebop022/Event-Driven-Microservices)
+### [Event Driven Microservices](https://github.com/bolebop022/Event-Driven-Microservices)
 ![Project1 Language](https://img.shields.io/github/languages/top/bolebop022/Event-Driven-Microservices?style=flat)
 ![Project1 Stars](https://img.shields.io/github/stars/bolebop022/Event-Driven-Microservices?style=flat)
 
-### [Project 2](https://github.com/bolebop022/Core-Java-Project)
-![Project2 Language](https://img.shields.io/github/languages/top/bolebop022/Core-Java-Project?style=flat)
-![Project2 Last Commit](https://img.shields.io/github/last-commit/bolebop022/Core-Java-Project?style=flat)
 
-## 📈 Activity Graph
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bolebop022&theme=react-dark&hide_border=true)
-
-## 🏆 GitHub Achievements
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bolebop022&theme=radical&margin-w=15&no-frame=true)
-
-## 📫 How to Reach Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:youremail@example.com)
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=bolebop022.bolebop022)
 
