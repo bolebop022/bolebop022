@@ -42,12 +42,12 @@
 ## 🌟 Featured Projects
 
 ### [Project 1](https://github.com/bolebop022/Event-Driven-Microservices)
-![Project1 Language](https://img.shields.io/github/languages/top/bolebop022/project1?style=flat)
-![Project1 Stars](https://img.shields.io/github/stars/bolebop022/project1?style=flat)
+![Project1 Language](https://img.shields.io/github/languages/top/bolebop022/Event-Driven-Microservices?style=flat)
+![Project1 Stars](https://img.shields.io/github/stars/bolebop022/Event-Driven-Microservices?style=flat)
 
 ### [Project 2](https://github.com/bolebop022/Core-Java-Project)
-![Project2 Language](https://img.shields.io/github/languages/top/bolebop022/project2?style=flat)
-![Project2 Last Commit](https://img.shields.io/github/last-commit/bolebop022/project2?style=flat)
+![Project2 Language](https://img.shields.io/github/languages/top/bolebop022/Core-Java-Project?style=flat)
+![Project2 Last Commit](https://img.shields.io/github/last-commit/bolebop022/Core-Java-Project?style=flat)
 
 ## 📈 Activity Graph
 
