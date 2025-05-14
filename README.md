@@ -1,6 +1,62 @@
-- 👋 Hi, I’m Bongane
+# Welcome to My GitHub Profile! 🚀
 
-<!---
-bolebop022/bolebop022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  
+![Header](https://github.com/bolebop022/bolebop022/blob/main/github-header-image.png?raw=true)
+
+## 📊 GitHub Stats
+
+<!-- Profile Stats -->
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=bolebop022&show_icons=true&theme=radical&hide_border=true)
+
+<!-- Most Used Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bolebop022&layout=compact&theme=radical&hide_border=true)
+
+<!-- Streak Stats -->
+![GitHub Streak](https://streak-stats.demolab.com?user=bolebop022&theme=radical&hide_border=true)
+
+## 🛠️ Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
+
+## 🌟 Featured Projects
+
+### [Project 1](https://github.com/bolebop022/project1)
+![Project1 Language](https://img.shields.io/github/languages/top/bolebop022/project1?style=flat)
+![Project1 Stars](https://img.shields.io/github/stars/bolebop022/project1?style=flat)
+
+### [Project 2](https://github.com/bolebop022/project2)
+![Project2 Language](https://img.shields.io/github/languages/top/bolebop022/project2?style=flat)
+![Project2 Last Commit](https://img.shields.io/github/last-commit/bolebop022/project2?style=flat)
+
+## 📈 Activity Graph
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bolebop022&theme=react-dark&hide_border=true)
+
+## 🏆 GitHub Achievements
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bolebop022&theme=radical&margin-w=15&no-frame=true)
+
+## 📫 How to Reach Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://twitter.com/yourhandle)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:youremail@example.com)
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=bolebop022.bolebop022)
+
+</div>
